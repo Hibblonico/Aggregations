@@ -1,0 +1,26 @@
+[
+    {
+        "_id": {
+            "_id": 2,
+            "nome": "Cleber Almeida",
+            "idade": 50
+        },
+        "desconto": 0.1
+    },
+    {
+        "_id": {
+            "_id": 3,
+            "nome": "Marina Santos",
+            "idade": 26
+        },
+        "desconto": 0.1
+    },
+    {
+        "_id": {
+            "_id": 1,
+            "nome": "Joao Algusto",
+            "idade": 30
+        },
+        "desconto": 0.05
+    }
+]
